@@ -25,4 +25,7 @@ Annotate, filter/prioritize, classiﬁy and report variants.
    2. OpenCRAVAT: https://www.opencravat.org/  ; https://pubmed.ncbi.nlm.nih.gov/32228266/
    3. seqr: https://seqr.broadinstitute.org/ ; https://pubmed.ncbi.nlm.nih.gov/35266241/
    4. iobio.io: https://iobio.io/applications.html  ; https://pubmed.ncbi.nlm.nih.gov/34645894/
-   5. Mastermind: https://mastermind.genomenon.com/ 
+   5. Mastermind: https://mastermind.genomenon.com/
+      
+
+<img width="1128" height="392" alt="image" src="https://github.com/user-attachments/assets/90048d2d-9f36-4047-92c2-2c51d3793e8a" />
