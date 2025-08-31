@@ -9,7 +9,7 @@ Generate DNA sequencing data from biological samples by converting sequencing in
 Identify DNA variants (mutations) through read alignment and variant calling.
 
 #### 3️⃣ Tertiary/Downstream analysis: 
-Annotate, filter/prioritize, classiﬁy and report variants.
+Annotate, filter/prioritize, classify and report variants.
 
 ### 🎯 Here are some great resources to get started:
 1. #### 📚 Reading:
