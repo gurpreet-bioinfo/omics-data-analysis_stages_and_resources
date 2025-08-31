@@ -21,11 +21,11 @@ Annotate, filter/prioritize, classify and report variants.
    2. nf-core/raredisease: https://nf-co.re/raredisease/2.6.0/ 
 
 3. #### 🛠️ Tools for Tertiary/Downstream analysis:
-   1. Varsome: https://varsome.com/ ; https://pubmed.ncbi.nlm.nih.gov/30376034/
+   1. Varsome from Saphetor: https://varsome.com/ ; https://pubmed.ncbi.nlm.nih.gov/30376034/
    2. OpenCRAVAT: https://www.opencravat.org/  ; https://pubmed.ncbi.nlm.nih.gov/32228266/
    3. seqr: https://seqr.broadinstitute.org/ ; https://pubmed.ncbi.nlm.nih.gov/35266241/
    4. iobio.io: https://iobio.io/applications.html  ; https://pubmed.ncbi.nlm.nih.gov/34645894/
-   5. Mastermind: https://mastermind.genomenon.com/
+   5. Mastermind from Genomenon, Inc: https://mastermind.genomenon.com/
       
 
 <img width="1128" height="392" alt="image" src="https://github.com/user-attachments/assets/90048d2d-9f36-4047-92c2-2c51d3793e8a" />
